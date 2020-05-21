@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-ac8768c0"],{"312d":function(n,t,c){"use strict";var e=c("8048"),a=c.n(e);a.a},8048:function(n,t,c){},c228:function(n,t,c){"use strict";c.r(t);var e=function(){var n=this,t=n.$createElement,c=n._self._c||t;return c("h2",[n._v("购物车")])},a=[],u=(c("cadf"),c("551c"),c("097d"),{name:"Cart"}),r=u,i=(c("312d"),c("2877")),o=Object(i["a"])(r,e,a,!1,null,"24909a3e",null);o.options.__file="Cart.vue";t["default"]=o.exports}}]);
-//# sourceMappingURL=chunk-ac8768c0.03e539f6.js.map
